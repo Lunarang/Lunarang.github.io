@@ -1,11 +1,11 @@
 # Site settings
 author: Erin Mettille
-title: 
+title: Code Create
 header-img: img/home-bg.png
 email: ecmettille@gmail.com
 copyright_name: Erin Mettille
 description: > # this means to ignore newlines until "baseurl:"
-  
+  reality is a collaboration
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Lunarang
